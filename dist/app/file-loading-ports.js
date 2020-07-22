@@ -21,6 +21,6 @@ function setup(app, config, directory) {
     RawDependencies.setup(app);
     DependencyFiles.setup(app, directory, fileReader);
     FileLoader.setup(app, config, directory, localCache, fileReader);
-    Context.setup(app, directory);
+    Context.setup(config, app, directory);
 }
 exports.setup = setup;

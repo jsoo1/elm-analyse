@@ -9,9 +9,9 @@ var __importStar = (this && this.__importStar) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 var fs = __importStar(require("fs"));
 var fileGatherer = __importStar(require("../util/file-gatherer"));
-function setup(app, directory) {
+function setup(config, app, directory) {
     app.ports.loadContext.subscribe(function () {
-        var input = fileGatherer.gather(directory);
+        var input = fileGatherer.gather(config, directory);
         var configuration;
         try {
             configuration = fs.readFileSync('./elm-analyse.json').toString();

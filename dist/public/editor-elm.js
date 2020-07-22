@@ -118,7 +118,7 @@ module.exports = function setup(port) {
 return module.exports;
 }
 /********** End of module 0: ./dist/app/editor/editor.js **********/
-/********** Start module 1: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/dist/app/editor/ws-client.js **********/
+/********** Start module 1: /Users/john/projects/elm-analyse/dist/app/editor/ws-client.js **********/
 __modules[1] = function(module, exports) {
 "use strict";
 var __importDefault = (this && this.__importDefault) || function (mod) {
@@ -188,8 +188,8 @@ exports.connect = connect;
 
 return module.exports;
 }
-/********** End of module 1: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/dist/app/editor/ws-client.js **********/
-/********** Start module 2: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/dist/app/editor/elm.js **********/
+/********** End of module 1: /Users/john/projects/elm-analyse/dist/app/editor/ws-client.js **********/
+/********** Start module 2: /Users/john/projects/elm-analyse/dist/app/editor/elm.js **********/
 __modules[2] = function(module, exports) {
 (function(scope){
 'use strict';
@@ -8892,8 +8892,8 @@ _Platform_export({'Editor':{'init':author$project$Editor$main(
 		A2(elm$json$Json$Decode$field, 'serverPort', elm$json$Json$Decode$int)))(0)}});}(this));
 return module.exports;
 }
-/********** End of module 2: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/dist/app/editor/elm.js **********/
-/********** Start module 3: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/index.js **********/
+/********** End of module 2: /Users/john/projects/elm-analyse/dist/app/editor/elm.js **********/
+/********** Start module 3: /Users/john/projects/elm-analyse/node_modules/ws/index.js **********/
 __modules[3] = function(module, exports) {
 /*!
  * ws: a node.js websocket client
@@ -8913,8 +8913,8 @@ module.exports = WebSocket;
 
 return module.exports;
 }
-/********** End of module 3: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/index.js **********/
-/********** Start module 4: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/WebSocket.js **********/
+/********** End of module 3: /Users/john/projects/elm-analyse/node_modules/ws/index.js **********/
+/********** Start module 4: /Users/john/projects/elm-analyse/node_modules/ws/lib/WebSocket.js **********/
 __modules[4] = function(module, exports) {
 /*!
  * ws: a node.js websocket client
@@ -9579,8 +9579,8 @@ function initAsClient (address, protocols, options) {
 
 return module.exports;
 }
-/********** End of module 4: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/WebSocket.js **********/
-/********** Start module 5: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/WebSocketServer.js **********/
+/********** End of module 4: /Users/john/projects/elm-analyse/node_modules/ws/lib/WebSocket.js **********/
+/********** Start module 5: /Users/john/projects/elm-analyse/node_modules/ws/lib/WebSocketServer.js **********/
 __modules[5] = function(module, exports) {
 /*!
  * ws: a node.js websocket client
@@ -9897,8 +9897,8 @@ function abortConnection (socket, code, message) {
 
 return module.exports;
 }
-/********** End of module 5: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/WebSocketServer.js **********/
-/********** Start module 6: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/Receiver.js **********/
+/********** End of module 5: /Users/john/projects/elm-analyse/node_modules/ws/lib/WebSocketServer.js **********/
+/********** Start module 6: /Users/john/projects/elm-analyse/node_modules/ws/lib/Receiver.js **********/
 __modules[6] = function(module, exports) {
 /*!
  * ws: a node.js websocket client
@@ -10451,8 +10451,8 @@ function toArrayBuffer (buf) {
 
 return module.exports;
 }
-/********** End of module 6: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/Receiver.js **********/
-/********** Start module 7: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/Sender.js **********/
+/********** End of module 6: /Users/john/projects/elm-analyse/node_modules/ws/lib/Receiver.js **********/
+/********** Start module 7: /Users/john/projects/elm-analyse/node_modules/ws/lib/Sender.js **********/
 __modules[7] = function(module, exports) {
 /*!
  * ws: a node.js websocket client
@@ -10856,8 +10856,8 @@ function viewToBuffer (view) {
 
 return module.exports;
 }
-/********** End of module 7: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/Sender.js **********/
-/********** Start module 8: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/node_modules/ultron/index.js **********/
+/********** End of module 7: /Users/john/projects/elm-analyse/node_modules/ws/lib/Sender.js **********/
+/********** Start module 8: /Users/john/projects/elm-analyse/node_modules/ws/node_modules/ultron/index.js **********/
 __modules[8] = function(module, exports) {
 'use strict';
 
@@ -10984,8 +10984,8 @@ module.exports = Ultron;
 
 return module.exports;
 }
-/********** End of module 8: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/node_modules/ultron/index.js **********/
-/********** Start module 9: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/PerMessageDeflate.js **********/
+/********** End of module 8: /Users/john/projects/elm-analyse/node_modules/ws/node_modules/ultron/index.js **********/
+/********** Start module 9: /Users/john/projects/elm-analyse/node_modules/ws/lib/PerMessageDeflate.js **********/
 __modules[9] = function(module, exports) {
 'use strict';
 
@@ -11461,8 +11461,8 @@ function inflateOnError (err) {
 
 return module.exports;
 }
-/********** End of module 9: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/PerMessageDeflate.js **********/
-/********** Start module 10: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/EventTarget.js **********/
+/********** End of module 9: /Users/john/projects/elm-analyse/node_modules/ws/lib/PerMessageDeflate.js **********/
+/********** Start module 10: /Users/john/projects/elm-analyse/node_modules/ws/lib/EventTarget.js **********/
 __modules[10] = function(module, exports) {
 'use strict';
 
@@ -11618,8 +11618,8 @@ module.exports = EventTarget;
 
 return module.exports;
 }
-/********** End of module 10: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/EventTarget.js **********/
-/********** Start module 11: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/Extensions.js **********/
+/********** End of module 10: /Users/john/projects/elm-analyse/node_modules/ws/lib/EventTarget.js **********/
+/********** Start module 11: /Users/john/projects/elm-analyse/node_modules/ws/lib/Extensions.js **********/
 __modules[11] = function(module, exports) {
 'use strict';
 
@@ -11701,8 +11701,8 @@ module.exports = { format, parse };
 
 return module.exports;
 }
-/********** End of module 11: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/Extensions.js **********/
-/********** Start module 12: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/Constants.js **********/
+/********** End of module 11: /Users/john/projects/elm-analyse/node_modules/ws/lib/Extensions.js **********/
+/********** Start module 12: /Users/john/projects/elm-analyse/node_modules/ws/lib/Constants.js **********/
 __modules[12] = function(module, exports) {
 'use strict';
 
@@ -11717,8 +11717,8 @@ exports.NOOP = () => {};
 
 return module.exports;
 }
-/********** End of module 12: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/Constants.js **********/
-/********** Start module 13: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/safe-buffer/index.js **********/
+/********** End of module 12: /Users/john/projects/elm-analyse/node_modules/ws/lib/Constants.js **********/
+/********** Start module 13: /Users/john/projects/elm-analyse/node_modules/safe-buffer/index.js **********/
 __modules[13] = function(module, exports) {
 /* eslint-disable node/no-deprecated-api */
 var buffer = require('buffer')
@@ -11780,8 +11780,8 @@ SafeBuffer.allocUnsafeSlow = function (size) {
 
 return module.exports;
 }
-/********** End of module 13: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/safe-buffer/index.js **********/
-/********** Start module 14: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/Validation.js **********/
+/********** End of module 13: /Users/john/projects/elm-analyse/node_modules/safe-buffer/index.js **********/
+/********** Start module 14: /Users/john/projects/elm-analyse/node_modules/ws/lib/Validation.js **********/
 __modules[14] = function(module, exports) {
 /*!
  * ws: a node.js websocket client
@@ -11803,8 +11803,8 @@ try {
 
 return module.exports;
 }
-/********** End of module 14: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/Validation.js **********/
-/********** Start module 15: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/BufferUtil.js **********/
+/********** End of module 14: /Users/john/projects/elm-analyse/node_modules/ws/lib/Validation.js **********/
+/********** Start module 15: /Users/john/projects/elm-analyse/node_modules/ws/lib/BufferUtil.js **********/
 __modules[15] = function(module, exports) {
 /*!
  * ws: a node.js websocket client
@@ -11879,8 +11879,8 @@ try {
 
 return module.exports;
 }
-/********** End of module 15: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/BufferUtil.js **********/
-/********** Start module 16: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/ErrorCodes.js **********/
+/********** End of module 15: /Users/john/projects/elm-analyse/node_modules/ws/lib/BufferUtil.js **********/
+/********** Start module 16: /Users/john/projects/elm-analyse/node_modules/ws/lib/ErrorCodes.js **********/
 __modules[16] = function(module, exports) {
 /*!
  * ws: a node.js websocket client
@@ -11913,8 +11913,8 @@ module.exports = {
 
 return module.exports;
 }
-/********** End of module 16: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/ws/lib/ErrorCodes.js **********/
-/********** Start module 17: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/async-limiter/index.js **********/
+/********** End of module 16: /Users/john/projects/elm-analyse/node_modules/ws/lib/ErrorCodes.js **********/
+/********** Start module 17: /Users/john/projects/elm-analyse/node_modules/async-limiter/index.js **********/
 __modules[17] = function(module, exports) {
 'use strict';
 
@@ -11986,35 +11986,182 @@ module.exports = Queue;
 
 return module.exports;
 }
-/********** End of module 17: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/async-limiter/index.js **********/
-/********** Start module 18: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/utf-8-validate/index.js **********/
+/********** End of module 17: /Users/john/projects/elm-analyse/node_modules/async-limiter/index.js **********/
+/********** Start module 18: /Users/john/projects/elm-analyse/node_modules/utf-8-validate/index.js **********/
 __modules[18] = function(module, exports) {
 'use strict';
 
 try {
-  module.exports = __require(20,18)('validation');
+  module.exports = __require(20,18)(__getDirname("../../node_modules/utf-8-validate/index.js"));
 } catch (e) {
   module.exports = __require(21,18);
 }
 
 return module.exports;
 }
-/********** End of module 18: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/utf-8-validate/index.js **********/
-/********** Start module 19: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/bufferutil/index.js **********/
+/********** End of module 18: /Users/john/projects/elm-analyse/node_modules/utf-8-validate/index.js **********/
+/********** Start module 19: /Users/john/projects/elm-analyse/node_modules/bufferutil/index.js **********/
 __modules[19] = function(module, exports) {
 'use strict';
 
 try {
-  module.exports = __require(20,19)('bufferutil');
+  module.exports = __require(22,19)('bufferutil');
 } catch (e) {
-  module.exports = __require(22,19);
+  module.exports = __require(23,19);
 }
 
 return module.exports;
 }
-/********** End of module 19: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/bufferutil/index.js **********/
-/********** Start module 20: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/bindings/bindings.js **********/
+/********** End of module 19: /Users/john/projects/elm-analyse/node_modules/bufferutil/index.js **********/
+/********** Start module 20: /Users/john/projects/elm-analyse/node_modules/node-gyp-build/index.js **********/
 __modules[20] = function(module, exports) {
+var fs = require('fs')
+var path = require('path')
+var os = require('os')
+var runtimeRequire = typeof __webpack_require__ === 'function' ? __non_webpack_require__ : require // eslint-disable-line
+
+var abi = process.versions.modules // TODO: support old node where this is undef
+var runtime = isElectron() ? 'electron' : 'node'
+var arch = os.arch()
+var platform = os.platform()
+
+module.exports = load
+
+function load (dir) {
+  return runtimeRequire(load.path(dir))
+}
+
+load.path = function (dir) {
+  dir = path.resolve(dir || '.')
+
+  try {
+    var name = runtimeRequire(path.join(dir, 'package.json')).name.toUpperCase().replace(/-/g, '_')
+    if (process.env[name + '_PREBUILD']) dir = process.env[name + '_PREBUILD']
+  } catch (err) {}
+
+  var release = getFirst(path.join(dir, 'build/Release'), matchBuild)
+  if (release) return release
+
+  var debug = getFirst(path.join(dir, 'build/Debug'), matchBuild)
+  if (debug) return debug
+
+  var prebuild = getFirst(path.join(dir, 'prebuilds/' + platform + '-' + arch), matchPrebuild)
+  if (prebuild) return prebuild
+
+  var napiRuntime = getFirst(path.join(dir, 'prebuilds/' + platform + '-' + arch), matchNapiRuntime)
+  if (napiRuntime) return napiRuntime
+
+  var napi = getFirst(path.join(dir, 'prebuilds/' + platform + '-' + arch), matchNapi)
+  if (napi) return napi
+
+  throw new Error('No native build was found for runtime=' + runtime + ' abi=' + abi + ' platform=' + platform + ' arch=' + arch)
+}
+
+function getFirst (dir, filter) {
+  try {
+    var files = fs.readdirSync(dir).filter(filter)
+    return files[0] && path.join(dir, files[0])
+  } catch (err) {
+    return null
+  }
+}
+
+function matchNapiRuntime (name) {
+  return name === runtime + '-napi.node'
+}
+
+function matchNapi (name) {
+  return name === 'node-napi.node'
+}
+
+function matchPrebuild (name) {
+  var parts = name.split('-')
+  return parts[0] === runtime && parts[1] === abi + '.node'
+}
+
+function matchBuild (name) {
+  return /\.node$/.test(name)
+}
+
+function isElectron () {
+  if (process.versions && process.versions.electron) return true
+  if (process.env.ELECTRON_RUN_AS_NODE) return true
+  return typeof window !== 'undefined' && window.process && window.process.type === 'renderer'
+}
+
+return module.exports;
+}
+/********** End of module 20: /Users/john/projects/elm-analyse/node_modules/node-gyp-build/index.js **********/
+/********** Start module 21: /Users/john/projects/elm-analyse/node_modules/utf-8-validate/fallback.js **********/
+__modules[21] = function(module, exports) {
+'use strict';
+
+/**
+ * Checks if a given buffer contains only correct UTF-8.
+ * Ported from https://www.cl.cam.ac.uk/%7Emgk25/ucs/utf8_check.c by
+ * Markus Kuhn.
+ *
+ * @param {Buffer} buf The buffer to check
+ * @return {Boolean} `true` if `buf` contains only correct UTF-8, else `false`
+ * @public
+ */
+const isValidUTF8 = (buf) => {
+  var len = buf.length;
+  var i = 0;
+
+  while (i < len) {
+    if (buf[i] < 0x80) {  // 0xxxxxxx
+      i++;
+    } else if ((buf[i] & 0xe0) === 0xc0) {  // 110xxxxx 10xxxxxx
+      if (
+        i + 1 === len ||
+        (buf[i + 1] & 0xc0) !== 0x80 ||
+        (buf[i] & 0xfe) === 0xc0  // overlong
+      ) {
+        return false;
+      } else {
+        i += 2;
+      }
+    } else if ((buf[i] & 0xf0) === 0xe0) {  // 1110xxxx 10xxxxxx 10xxxxxx
+      if (
+        i + 2 >= len ||
+        (buf[i + 1] & 0xc0) !== 0x80 ||
+        (buf[i + 2] & 0xc0) !== 0x80 ||
+        buf[i] === 0xe0 && (buf[i + 1] & 0xe0) === 0x80 ||  // overlong
+        buf[i] === 0xed && (buf[i + 1] & 0xe0) === 0xa0     // surrogate (U+D800 - U+DFFF)
+      ) {
+        return false;
+      } else {
+        i += 3;
+      }
+    } else if ((buf[i] & 0xf8) === 0xf0) {  // 11110xxx 10xxxxxx 10xxxxxx 10xxxxxx
+      if (
+        i + 3 >= len ||
+        (buf[i + 1] & 0xc0) !== 0x80 ||
+        (buf[i + 2] & 0xc0) !== 0x80 ||
+        (buf[i + 3] & 0xc0) !== 0x80 ||
+        buf[i] === 0xf0 && (buf[i + 1] & 0xf0) === 0x80 ||  // overlong
+        buf[i] === 0xf4 && buf[i + 1] > 0x8f || buf[i] > 0xf4  // > U+10FFFF
+      ) {
+        return false;
+      } else {
+        i += 4;
+      }
+    } else {
+      return false;
+    }
+  }
+
+  return true;
+};
+
+module.exports = isValidUTF8;
+
+return module.exports;
+}
+/********** End of module 21: /Users/john/projects/elm-analyse/node_modules/utf-8-validate/fallback.js **********/
+/********** Start module 22: /Users/john/projects/elm-analyse/node_modules/bindings/bindings.js **********/
+__modules[22] = function(module, exports) {
 
 /**
  * Module dependencies.
@@ -12167,87 +12314,9 @@ exports.getRoot = function getRoot (file) {
 
 return module.exports;
 }
-/********** End of module 20: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/bindings/bindings.js **********/
-/********** Start module 21: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/utf-8-validate/fallback.js **********/
-__modules[21] = function(module, exports) {
-/*!
- * UTF-8 validate: UTF-8 validation for WebSockets.
- * Copyright(c) 2015 Einar Otto Stangvik <einaros@gmail.com>
- * MIT Licensed
- */
-
-'use strict';
-
-/**
- * Checks if a given buffer contains only correct UTF-8.
- * Ported from https://www.cl.cam.ac.uk/%7Emgk25/ucs/utf8_check.c by
- * Markus Kuhn.
- *
- * @param {Buffer} buf The buffer to check
- * @return {Boolean} `true` if `buf` contains only correct UTF-8, else `false`
- * @public
- */
-const isValidUTF8 = (buf) => {
-  if (!Buffer.isBuffer(buf)) {
-    throw new TypeError('First argument needs to be a buffer');
-  }
-
-  var len = buf.length;
-  var i = 0;
-
-  while (i < len) {
-    if (buf[i] < 0x80) {  // 0xxxxxxx
-      i++;
-    } else if ((buf[i] & 0xe0) === 0xc0) {  // 110xxxxx 10xxxxxx
-      if (
-        i + 1 === len ||
-        (buf[i + 1] & 0xc0) !== 0x80 ||
-        (buf[i] & 0xfe) === 0xc0  // overlong
-      ) {
-        return false;
-      } else {
-        i += 2;
-      }
-    } else if ((buf[i] & 0xf0) === 0xe0) {  // 1110xxxx 10xxxxxx 10xxxxxx
-      if (
-        i + 2 >= len ||
-        (buf[i + 1] & 0xc0) !== 0x80 ||
-        (buf[i + 2] & 0xc0) !== 0x80 ||
-        buf[i] === 0xe0 && (buf[i + 1] & 0xe0) === 0x80 ||  // overlong
-        buf[i] === 0xed && (buf[i + 1] & 0xe0) === 0xa0     // surrogate (U+D800 - U+DFFF)
-      ) {
-        return false;
-      } else {
-        i += 3;
-      }
-    } else if ((buf[i] & 0xf8) === 0xf0) {  // 11110xxx 10xxxxxx 10xxxxxx 10xxxxxx
-      if (
-        i + 3 >= len ||
-        (buf[i + 1] & 0xc0) !== 0x80 ||
-        (buf[i + 2] & 0xc0) !== 0x80 ||
-        (buf[i + 3] & 0xc0) !== 0x80 ||
-        buf[i] === 0xf0 && (buf[i + 1] & 0xf0) === 0x80 ||  // overlong
-        buf[i] === 0xf4 && buf[i + 1] > 0x8f || buf[i] > 0xf4  // > U+10FFFF
-      ) {
-        return false;
-      } else {
-        i += 4;
-      }
-    } else {
-      return false;
-    }
-  }
-
-  return true;
-};
-
-module.exports = isValidUTF8;
-
-return module.exports;
-}
-/********** End of module 21: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/utf-8-validate/fallback.js **********/
-/********** Start module 22: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/bufferutil/fallback.js **********/
-__modules[22] = function(module, exports) {
+/********** End of module 22: /Users/john/projects/elm-analyse/node_modules/bindings/bindings.js **********/
+/********** Start module 23: /Users/john/projects/elm-analyse/node_modules/bufferutil/fallback.js **********/
+__modules[23] = function(module, exports) {
 /*!
  * bufferutil: WebSocket buffer utils
  * Copyright(c) 2015 Einar Otto Stangvik <einaros@gmail.com>
@@ -12290,7 +12359,7 @@ module.exports = { mask, unmask };
 
 return module.exports;
 }
-/********** End of module 22: /Users/matstijl/development/repositories/github/stil4m/elm-analyse/node_modules/bufferutil/fallback.js **********/
+/********** End of module 23: /Users/john/projects/elm-analyse/node_modules/bufferutil/fallback.js **********/
 /********** Footer **********/
 if(typeof module === "object")
 	module.exports = __require(0);

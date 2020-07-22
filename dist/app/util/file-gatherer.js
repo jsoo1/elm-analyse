@@ -70,11 +70,12 @@ function getDependencyFiles(directory, dep) {
     });
 }
 exports.getDependencyFiles = getDependencyFiles;
-function gather(directory) {
+function gather(config, directory) {
     var packageFile = require(directory + '/elm.json');
     var input = {
         interfaceFiles: [],
         sourceFiles: targetFilesForPathAndPackage(directory, directory, packageFile)
+            .concat(lodash_1.default.uniq(config.extraSourcePaths))
     };
     return input;
 }

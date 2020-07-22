@@ -41,7 +41,7 @@ function start(config, info, project) {
         });
         app.get('/api/tree', function (_req, res) {
             var directory = process.cwd();
-            var x = fileGatherer.gather(directory);
+            var x = fileGatherer.gather(config, directory);
             res.send(x.sourceFiles);
         });
         app.get('/info', function (_req, res) {
